@@ -1,10 +1,13 @@
 # Finnish-for-beginners
 
-Aplicación local para preparar un examen de finés con vocabulario, escritura, conjugación, números, exámenes, repaso de errores, notas y puntuaciones.
+Aplicación para preparar un examen de finés con vocabulario, escritura, conjugación, números, horas, exámenes, repaso de errores, notas y puntuaciones.
 
-## Uso
+## Archivos
 
-Abre `Suomi15.html` en un navegador. Es un único archivo HTML que incluye la aplicación y el temario.
+- `index.html`: entrada web principal; contiene la aplicación completa.
+- `Suomi15.html`: la misma aplicación con su nombre original.
+
+La aplicación no requiere instalar paquetes ni cargar imágenes, fuentes o scripts externos. El visor de código de GitHub no ejecuta HTML: para usarla desde un móvil hace falta abrirla desde un sitio web estático. En este repositorio privado, la configuración de GitHub indica que Pages requiere cambiar el repositorio a público o actualizar el plan. Hacerlo público expondría todos los archivos del repositorio.
 
 ## Funciones
 
